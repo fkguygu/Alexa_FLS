@@ -1,0 +1,10 @@
+FoodLifeSpanIntent what is the life span of a {Food}
+FoodLifeSpanIntent what is the life span of an {Food}
+FoodLifeSpanIntent what is the life span for {Food}
+FoodLifeSpanIntent what is the life span for a {Food}
+FoodLifeSpanIntent what's the life span of a {Food}
+FoodLifeSpanIntent what's the life span of an {Food}
+FoodLifeSpanIntent what's the life span for {Food}
+FoodLifeSpanIntent what's the life span for a {Food}
+FoodLifeSpanIntent For how long I can keep a {Food}
+FoodLifeSpanIntent For how long I can keep an {Food}

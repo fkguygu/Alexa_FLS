@@ -1,0 +1,14 @@
+{
+  "name": "food-life-span",
+  "version": "1.0.0",
+  "description": "alexa skill for food life span",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fresh Keep",
+  "license": "ISC",
+  "dependencies": {
+    "alexa-sdk": "^1.0.6"
+  }
+}
